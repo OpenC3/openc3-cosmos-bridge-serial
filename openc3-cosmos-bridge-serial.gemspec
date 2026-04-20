@@ -8,8 +8,8 @@ spec = Gem::Specification.new do |s|
     This bridge provides an interface to connect to a host's serial port and forward the data to COSMOS over TCP/IP.
   EOF
   s.licenses = ['AGPL-3.0-only', 'Nonstandard']
-  s.authors = ['Ryan Melton']
-  s.email = ['ryan@openc3.com']
+  s.authors = ['OpenC3, Inc.']
+  s.email = ['plugins@openc3.com']
   s.homepage = 'https://github.com/OpenC3/openc3'
   s.platform = Gem::Platform::RUBY
 
